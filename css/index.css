@@ -89,7 +89,7 @@ header nav ul li a {
 	height:500px;
 	margin-top: 1px;
 	position: relative;
-	background: url('Images/Vista.jpg') no-repeat center;
+	background: url('../Images/Vista.JPG') no-repeat center;
 	background-size: cover;
 }
 
